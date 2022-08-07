@@ -1,0 +1,11 @@
+hi world!
+
+git status : to get status of git 
+git init : to initialize git
+    .git - repo
+    master branch - empty right now until you add something
+
+U - untacked
+M - modified
+A - indexed file (in staging area) 
+
